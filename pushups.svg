@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 400">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#dff7f3"/><stop offset="1" stop-color="#dbeafe"/></linearGradient></defs>
+<rect width="500" height="400" rx="36" fill="url(#g)"/>
+<circle cx="250" cy="95" r="38" fill="#f2c6a0"/>
+<path d="M125 330 L205 300 L285 275 L370 250 M205 300 L175 360 M285 275 L310 335 M160 330 L130 330" fill="none" stroke="#123" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M70 365h360" stroke="#9ab8b5" stroke-width="8" stroke-linecap="round"/>
+<text x="250" y="45" text-anchor="middle" font-family="Arial" font-size="24" font-weight="700" fill="#0f766e">Push-Up</text>
+</svg>

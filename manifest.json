@@ -1,0 +1,10 @@
+{
+  "name":"FitDay — Today's Plan",
+  "short_name":"FitDay",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f3f7f7",
+  "theme_color":"#0f766e",
+  "description":"One-day-at-a-time fitness and nutrition planner.",
+  "icons":[{"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
